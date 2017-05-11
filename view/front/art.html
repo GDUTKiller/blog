@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>文章</title>
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/index.css">
+    <link rel="stylesheet" href="./css/art.css">
+</head>
+<body>
+    <header>
+        <h1>杨己乐的博客</h1>
+        <h4>不断前进</h4>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.php">首页</a></li>
+            <li><a href="javascript:void(0);">导航2</a></li>
+            <li>
+                <a href="javascript:void(0);">导航3</a></li>
+            <li><a href="javascript:void(0);">导航4</a></li>
+        </ul>
+    </nav>
+    <div id="main" class="clearfix">
+        <div id="lside">
+            <article>
+                <h2><a href="javascript:void(0);"><?php echo $art['title']; ?></a></h2>
+                <div class="entry_header">
+                    <time><?php echo date('Y/m/d', $art['pubtime']); ?></time>
+                    by
+                    <a href="javascript:void(0);">杨己乐</a>
+                    <a href="javascript:void(0);" class="catlink"><?php echo $art['catname']; ?></a>
+                    <a href="javascript:void(0);" class="comment"><?php echo $art['comm']; ?>条评论</a>
+                </div>
+                <div class="entry_content">
+                    <?php if($art['thumb']) {?>
+                        <img src="<?php echo '.'.$art['thumb'];?>" alt="img">
+                    <?php } ?>
+                    <p><?php echo $art['content']; ?></p>
+                </div>
+            </article>
+            <div id="comments">
+                <?php foreach($comment as $v) {?>
+                <ol>
+                    <li>
+                        <img src="https://secure.gravatar.com/avatar/582b66ad5ae1b69c7601a990cb9a661a?s=50&d=identicon&r=pg" alt="头像">
+                        <cite><a href="javascript:void(0);"><?php echo $v['nick']; ?></a></cite> <br>
+                        <time><?php echo date('Y年m月d日 H时i分', $v['pubtime']); ?></time>
+                    </li>
+                    <li>
+                        <?php echo $v['content']; ?>
+                    </li>
+                </ol>
+                <?php } ?>
+            </div>
+            <div id="respond" class="comment-respond">
+                <h3>评论</h3>
+                <?php if(isset($rs) && $rs === false) {?>
+                    <h4 style="color:red;">评论失败</h4>
+                <?php } ?>
+                <form action="" method="post">
+                    <p>
+                        <input type="text" placeholder="你的名字。" name="nick" size="30">
+                    </p>
+                    <p>
+                        <input type="text" placeholder="你的邮箱" name="email" size="30">
+                    </p>
+                    <p>
+                        <textarea name="content" id="" cols="45" rows="8" aria-required="true"></textarea>
+                    </p>
+                    <input type="submit" value="提交">
+                </form>
+            </div>
+        </div>
+        <div id="rside">
+            <aside>
+                <form action="">
+                    <input type="text" name="search" placeholder="Search...">
+                </form>
+            </aside>
+            <aside>
+                <h4>所有栏目</h4>
+                <ul>
+                    <?php foreach ($cat as $c) { ?>
+                    <li><a href="javascript:void(0);"><?php echo $c['catname']; ?></a></li>
+                    <?php } ?>
+                </ul>
+            </aside>
+        </div>
+    </div>
+    <footer>
+        Copyright &copy; 2015 · GeneratePress · WordPress
+    </footer>
+</body>
+</html>

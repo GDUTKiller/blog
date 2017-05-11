@@ -1,0 +1,630 @@
+-----------------------------------------
+2017/03/10 07:45:35
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 07:45:35
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 0,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 07:45:35
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 09:05:12
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 09:05:12
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 0,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 09:05:12
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 09:06:24
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 09:06:24
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 0,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 09:06:24
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 09:07:19
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 09:07:19
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 0,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 09:07:19
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 09:48:22
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 09:48:22
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 0,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 09:48:22
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 10:17:41
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 10:17:41
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 0,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 10:17:41
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 10:48:28
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 10:48:28
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 0,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 10:48:28
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 10:48:37
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 10:48:37
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 0,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 10:48:37
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 12:27:11
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 12:27:19
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 12:32:06
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 12:32:06
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 0,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 12:32:06
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 13:24:45
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 13:24:45
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 0,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 13:24:45
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 13:24:45
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 13:24:45
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 0,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 13:24:45
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 13:24:46
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 13:24:46
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 0,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 13:24:46
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 13:24:46
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 13:24:46
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 0,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 13:24:46
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:42:25
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:42:25
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 0,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:42:25
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:42:35
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:42:35
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 1,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:42:35
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:42:36
+SELECT * FROM comment WHERE art_id = 2 ORDER BY comment_id DESC
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:42:38
+SELECT COUNT(*) FROM comment WHERE comment_id = 3
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:42:38
+DELETE FROM comment WHERE comment_id = 3
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:42:38
+SELECT art_id FROM comment WHERE comment_id = 3
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:42:42
+SELECT * FROM comment WHERE art_id = 2 ORDER BY comment_id DESC
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:44:17
+SELECT * FROM comment WHERE art_id = 2 ORDER BY comment_id DESC
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:44:18
+SELECT COUNT(*) FROM comment WHERE comment_id = 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:44:18
+DELETE FROM comment WHERE comment_id = 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:44:18
+SELECT art_id FROM comment WHERE comment_id = 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:44:21
+SELECT * FROM comment WHERE art_id = 2 ORDER BY comment_id DESC
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:12
+SELECT COUNT(*) FROM comment WHERE comment_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:12
+SELECT art_id FROM comment WHERE comment_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:12
+DELETE FROM comment WHERE comment_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:12
+UPDATE art SET comm = comm - 1 art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:12
+SELECT * FROM comment WHERE art_id = 2 ORDER BY comment_id DESC
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:15
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:15
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:16
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:17
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:17
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:17
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:22
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:22
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:22
+insert into comment (art_id,nick,content,email,pubtime,ip) values ('2','sadf ',' ssf sda','sd f','1489146622','2028777745')
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:22
+UPDATE art SET comm = comm + 1 WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:22
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:22
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:22
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:22
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:27
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:27
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:27
+insert into comment (art_id,nick,content,email,pubtime,ip) values ('2','dsf ','sdf ','sdf ','1489146627','2028777745')
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:27
+UPDATE art SET comm = comm + 1 WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:27
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:27
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:27
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:27
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:55
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:55
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 0,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:55
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:56
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:56
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 1,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:56
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:50:58
+SELECT * FROM comment WHERE art_id = 2 ORDER BY comment_id DESC
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 19:51:21
+SELECT * FROM comment WHERE art_id = 2 ORDER BY comment_id DESC
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 20:21:30
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 20:21:30
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 1,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 20:21:30
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 20:21:31
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 20:21:31
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 1,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 20:21:31
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 20:21:31
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 20:21:31
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 1,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 20:21:31
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 20:21:41
+SELECT * FROM comment WHERE art_id = 2 ORDER BY comment_id DESC
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 20:34:21
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 20:34:21
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 0,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 20:34:21
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 21:54:11
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 21:54:11
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 21:59:25
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 21:59:27
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 21:59:29
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 21:59:29
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 21:59:29
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 22:02:38
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 22:02:38
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 22:02:38
+insert into comment (art_id,nick,content,email,pubtime,ip) values ('2','df ','sdf ','df ','1489154558','2028777745')
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 22:02:38
+UPDATE art SET comm = comm + 1 WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 22:02:38
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 22:02:38
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 22:02:38
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 22:02:38
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 22:16:32
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 22:16:32
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 22:16:32
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 23:59:00
+SELECT COUNT(*) FROM art WHERE 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 23:59:00
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC LIMIT 0,1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/10 23:59:00
+SELECT * FROM cat
+-----------------------------------------
+

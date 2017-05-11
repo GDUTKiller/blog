@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>blog</title>
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/index.css">
+</head>
+<body>
+    <header>
+        <h1>杨己乐的博客</h1>
+        <h4>不断前进</h4>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.php">首页</a></li>
+            <li><a href="catlist.php">管理</a></li>
+            <li><a href="javascript:void(0);">导航三</a></li>
+            <li><a href="javascript:void(0);">导航四</a></li>
+        </ul>
+    </nav>
+    <div id="main" class="clearfix">
+        <div id="lside">
+            <?php foreach ($art as $a) { ?>
+            <article>
+                <h2><a href="art.php?art_id=<?php echo $a['art_id'];?>"><?php echo $a['title'];?></a></h2>
+                <div class="entry_header">
+                    <time><?php echo date('Y/m/d', $a['pubtime']);?></time>
+                    by
+                    <a href="javascript:void(0);">杨己乐</a>
+                    <a href="javascript:void(0);" class="catlink"><?php echo $a['catname']; ?></a>
+                    <?php echo "&nbsp;", $a['arttag']; ?>
+                    <a href="commlist.php?art_id=<?php echo $a['art_id']; ?>" class="comment"><?php echo $a['comm']; ?>条评论</a>
+                </div>
+                <div class="entry_content">
+                    <?php if($a['thumb']) {?>
+                        <img src="<?php echo '.' .$a['thumb'];?>" alt="img">
+                    <?php } ?>
+                    <p><?php echo $a['content']; ?></p>
+                </div>
+            </article>
+            <?php } ?>
+            <div id="pagebar">
+                Pages:&nbsp;
+                <ul>
+                    <?php foreach ($pagers as $v) { ?>
+                    <li><a href="index.php?<?php echo $v;?>" class="<?php echo ltrim($v, 'page=') == $curr ? 'active' : ' '; ?>"><?php echo ltrim($v, 'page=');?></a></li>
+                    <?php } ?>
+                </ul>
+            </div>
+        </div>
+        <div id="rside">
+            <aside>
+                <form action="">
+                    <input type="text" name="search" placeholder="Search...">
+                </form>
+            </aside>
+            <aside>
+                <h4>所有栏目</h4>
+                <ul>
+                    <?php foreach ($cat as $c) { ?>
+                    <li><a href="index.php?cat_id=<?php echo $c['cat_id']?>"><?php echo $c['catname']; ?></a></li>
+                    <?php } ?>
+                </ul>
+            </aside>
+        </div>
+    </div>
+    <footer>
+        Copyright &copy; 2017 · GeneratePress · WordPress
+    </footer>
+</body>
+</html>

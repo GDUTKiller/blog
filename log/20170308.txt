@@ -1,0 +1,1705 @@
+-----------------------------------------
+2017/03/08 02:15:51
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 04:34:37
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 05:58:44
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 06:04:01
+update cat set catname='1234' where catname ='123'
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 07:17:03
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:12:11
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:12:12
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:12:13
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:12:13
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:12:13
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:12:23
+SELECT * FROM art
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:12:48
+SELECT * FROM art
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:12:50
+SELECT * FROM art
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:14:35
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:14:35
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:14:45
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:14:45
+insert into art (title,cat_id,content,pubtime) values ('Hello World!!!','7','h','1488935685')
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:22:52
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:27:55
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:27:56
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:27:56
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:27:57
+DELETE FROM art WHERE art_id = 1
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:28:00
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:28:02
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:28:02
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:28:03
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:28:03
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:28:03
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:28:03
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:28:04
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:28:04
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:28:04
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:28:05
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:28:05
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:28:05
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:28:05
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:28:05
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:28:06
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:28:06
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:28:11
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:16
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:16
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:17
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:17
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:17
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:17
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:18
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:18
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:18
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:18
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:23
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:30
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:30
+insert into art (title,cat_id,content,pubtime) values ('123','4','123','1488938190')
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:33
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:35
+SELECT COUNT(*) FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:35
+SELECT * FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:35
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:35
+SELECT tag FROM tag WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:39
+SELECT COUNT(*) FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:39
+SELECT COUNT(*) FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:39
+update art set title='123',cat_id='4',content='123111111111',lastup='1488938199',arttag='' where art_id=2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:43
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:47
+SELECT COUNT(*) FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:47
+SELECT * FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:47
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:47
+SELECT tag FROM tag WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:58
+SELECT COUNT(*) FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:58
+SELECT COUNT(*) FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:56:58
+update art set title='123',cat_id='4',content='123fsdgfdgfdgsfdgfdgfdsgdf',lastup='1488938218',arttag='fdgsd' where art_id=2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:57:55
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:57:56
+SELECT COUNT(*) FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:57:56
+SELECT * FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:57:56
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:57:56
+SELECT tag FROM tag WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:57:58
+SELECT COUNT(*) FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:57:58
+SELECT COUNT(*) FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:57:58
+update art set title='123',cat_id='4',content='123sdf',lastup='1488938278',arttag='' where art_id=2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:58:22
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:58:23
+SELECT COUNT(*) FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:58:23
+SELECT * FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:58:23
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:58:23
+SELECT tag FROM tag WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:58:27
+SELECT COUNT(*) FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:58:27
+SELECT COUNT(*) FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 09:58:27
+update art set title='123',cat_id='4',content='sdfa sd',lastup='1488938307',arttag='dsf' where art_id=2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:08:12
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:08:14
+SELECT COUNT(*) FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:08:14
+SELECT * FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:08:14
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:08:14
+SELECT tag FROM tag WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:08:16
+SELECT COUNT(*) FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:08:16
+SELECT COUNT(*) FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:08:16
+update art set title='123',cat_id='4',content='123534',lastup='1488938896',arttag='' where art_id=2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:08:19
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:08:25
+SELECT COUNT(*) FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:08:25
+SELECT * FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:08:25
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:08:25
+SELECT tag FROM tag WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:08:28
+SELECT COUNT(*) FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:08:28
+SELECT COUNT(*) FROM art WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:08:28
+update art set title='123',cat_id='4',content='123534',lastup='1488938908',arttag='12' where art_id=2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:08:28
+DELETE FROM tag WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:08:28
+INSERT INTO tag (art_id, tag) VALUES (2,'12')
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:08:30
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:52
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:52
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:53
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:53
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:53
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:53
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:53
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:53
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:53
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:53
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:54
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:54
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:54
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:54
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:54
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:54
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:54
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:54
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:54
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:54
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:54
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:54
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:55
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:55
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:55
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:55
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:55
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:55
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:55
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:55
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:55
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:55
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:56
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:56
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:57
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  and art.cat_id = 4 ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:57
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:58
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  and art.cat_id = 4 ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:58
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:58
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  and art.cat_id = 4 ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:58
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:58
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  and art.cat_id = 7 ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:58
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:59
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  and art.cat_id = 8 ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:59
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:59
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  and art.cat_id = 9 ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:32:59
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:33:00
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  and art.cat_id = 11 ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:33:00
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:33:01
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  and art.cat_id = 8 ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:33:01
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:33:02
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  and art.cat_id = 7 ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:33:02
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:33:02
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  and art.cat_id = 4 ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:33:02
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:34:44
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  and art.cat_id = 4 ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:34:44
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:34:44
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  and art.cat_id = 4 ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:34:44
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:34:44
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  and art.cat_id = 4 ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:34:44
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:34:44
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  and art.cat_id = 4 ORDER BY art_id DESC \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:34:44
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:40:00
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  and art.cat_id = 4 ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:40:00
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:58:57
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:58:57
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:58:57
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:58:58
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:58:58
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:58:58
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:58:59
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:58:59
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:58:59
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:58:59
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:58:59
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:58:59
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:58:59
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:58:59
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:58:59
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:58:59
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:58:59
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:58:59
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:00
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:00
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:00
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:00
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:00
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:00
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:00
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:00
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:00
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:00
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:00
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:00
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:01
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:01
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:01
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:01
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:01
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:01
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:01
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:01
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:01
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:01
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:01
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:01
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:02
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:02
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:02
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:02
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:02
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:02
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:04
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:04
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:04
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:05
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:05
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:05
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:05
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:05
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:05
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:35
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:35
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 10:59:35
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:00:06
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:00:06
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:00:06
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:00:06
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:00:06
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:00:06
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:00:08
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:00:08
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:00:15
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2\n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:02:45
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:02:45
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:22:15
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:22:15
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:24:42
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:24:42
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:24:42
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:24:52
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:24:52
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:25:31
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:25:31
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:25:31
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:25:36
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:25:36
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:25:36
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:32:41
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:32:41
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:32:41
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:32:41
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:32:41
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:32:41
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:33:07
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:33:07
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:36:01
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:36:01
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:36:02
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:36:02
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:36:02
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:36:06
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:36:06
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:37:01
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:37:01
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:37:01
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:39:06
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:39:06
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:39:06
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:39:07
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:39:07
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:39:07
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:39:34
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:39:34
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:39:34
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:39:38
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:39:38
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:39:38
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:40:14
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:40:14
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:40:14
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:40:17
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:40:17
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:40:17
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:40:18
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:40:18
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:40:18
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:40:18
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:40:18
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:40:18
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:40:48
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:40:48
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:41:16
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:41:16
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:41:16
+insert into comment (art_id,nick,content,email,pubtime) values ('2','','','','1488944476')
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:41:16
+UPDATE art SET comm = comm + 1 WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:41:16
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:41:16
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:41:16
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:41:16
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:41:26
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:41:26
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:41:26
+insert into comment (art_id,nick,content,email,pubtime) values ('2','说s','谁','是','1488944486')
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:41:26
+UPDATE art SET comm = comm + 1 WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:41:26
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:41:26
+SELECT title, content, pubtime, catname, comm, pic, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:41:26
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 11:41:26
+SELECT * FROM comment WHERE art_id = 2
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 12:29:03
+SELECT art.*, cat.catname FROM art, cat WHERE art.cat_id = cat.cat_id;
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 12:29:09
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 12:45:56
+DELETE FROM art WHERE art_id = \n
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 13:35:34
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 13:35:34
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 13:35:34
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 13:35:34
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 13:35:34
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 13:35:34
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 13:35:34
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 13:35:34
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 13:52:51
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 13:52:51
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 13:53:00
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 13:53:00
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 13:53:00
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 13:53:00
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 13:53:00
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 13:53:00
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 13:53:00
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 13:53:00
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 15:46:49
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 15:46:49
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 16:28:15
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 16:28:15
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 16:29:52
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 16:29:52
+SELECT * FROM cat
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 22:14:29
+SELECT art_id, art.cat_id, user_id, nick, pubtime, title, content, cat.catname, comm, arttag, thumb FROM art LEFT JOIN cat ON art.cat_id = cat.cat_id WHERE 1  ORDER BY art_id DESC 
+-----------------------------------------
+
+-----------------------------------------
+2017/03/08 22:14:29
+SELECT * FROM cat
+-----------------------------------------
+
